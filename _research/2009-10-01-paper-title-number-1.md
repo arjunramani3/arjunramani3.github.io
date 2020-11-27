@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 1"
 collection: research
-permalink: /research/2009-10-01-coin-flipping
+permalink: /research/2019-08-07-coin-flipping
 excerpt: 'Fast methods for generating random Kronecker networks from stochastic adjacency matrices.'
 date: 2019
 venue: 'Society for Industrial and Applied Mathematics (SIAM) Review'
