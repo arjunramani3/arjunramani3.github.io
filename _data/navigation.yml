@@ -2,12 +2,6 @@
 main:
   - title: "Research"
     url: /research/
-
-  - title: "Writing"
-    url: /writing/     
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
