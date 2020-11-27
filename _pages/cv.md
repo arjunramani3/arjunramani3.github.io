@@ -37,9 +37,9 @@ Publications
   {% endfor %}</ul>
   
   
-Leadership & Other Organizations
+Leadership
 ======
 * Founder, [Stanford Open Data Project](https://stanfordopendata.org)
 * Editor, Data Journalism Section, [The Stanford Daily](https://stanforddaily.com)
 * Board Member, [The Washington Leadership Program](https://thewlp.com)
-* 
+* Board Member & VP of Projects, [Stanford Consulting](https://stanfordconsulting.stanford.edu)
