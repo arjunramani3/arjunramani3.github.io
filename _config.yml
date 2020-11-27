@@ -175,7 +175,10 @@ kramdown:
 
 # Collections
 collections:
-  research:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  work-in-progress:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -215,10 +218,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research
+  # _publications
   - scope:
       path: ""
-      type: research
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _work-in-progress
+  - scope:
+      path: ""
+      type: work-in-progress
     values:
       layout: single
       author_profile: true

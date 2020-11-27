@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A.H. in Economics, Minor in Mathematics, Stanford University, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Quantitative Trading Intern
+  * Citadel Securities
+  * Fixed Income ETF
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: 
+  * Product Strategy & Analytics Intern
+  * DreamOval Ltd through the Stanford Institute for Innovation in Developing Economies
+  * Accra, Ghana
+
+* Summer 2018:
+  * Economic Policy Intern
+  * White House Council of Economic Advisers
+  * Tax & trade policy
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -42,18 +36,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Leadership & Other Organizations
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Founder, [Stanford Open Data Project](https://stanfordopendata.org)
+* Editor, Data Journalism Section, [The Stanford Daily](https://stanforddaily.com)
+* Board Member, [The Washington Leadership Program](https://thewlp.com)
+* 
