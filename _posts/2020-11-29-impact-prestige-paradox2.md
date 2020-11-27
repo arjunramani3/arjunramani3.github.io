@@ -1,7 +1,7 @@
 ---
-title: 'The Impact Prestige Paradox'
-date: 2020-11-22
-permalink: /posts/2020/11/impact-prestige-paradox/
+title: 'The Impact Prestige Paradox2'
+date: 2020-11-29
+permalink: /posts/2020/11/impact-prestige-paradox2/
 tags:
   - society
   - economics
