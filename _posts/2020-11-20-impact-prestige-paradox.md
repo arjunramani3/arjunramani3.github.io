@@ -1,6 +1,6 @@
 ---
 title: 'The Impact Prestige Paradox'
-date: 2020-11-29
+date: 2020-11-20
 permalink: /posts/2020/11/impact-prestige-paradox/
 tags:
   - society
