@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Click [here](https://arjunramani.com/files/arjun-resume.pdf) for a full pdf version
+
 Education
 ======
 * B.A.H. in Economics, Minor in Mathematics, Stanford University, 2021 (expected)
