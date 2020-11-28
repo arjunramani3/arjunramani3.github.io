@@ -11,7 +11,7 @@ redirect_from:
 
 I'm a student at Stanford studying economics, mathematics, and computer science. My research interests include understanding the drivers of innovation, the consequences of monetary policy to inequality, and how individuals/groups can be empowered to make more impactful choices. I am writing my senior thesis on how work-from-home is affecting real estate markets. 
 
-#### In addition to research, here are some other things I care about
+### In addition to research, here are some other things I care about
 
 - Data journalism: I am currently the editor of the data journalism section of [The Stanford Daily](https://stanforddaily.com) and have worked on stories [tracking covid on campus](https://stanforddaily.com/2020/10/11/tracking-covid-19-at-stanford/), [understanding Stanford's finances](https://stanforddaily.com/2020/03/05/stanford-as-a-vc/), and [gauging student opinion on campus politics and society through student surveys.](https://stanforddaily.com/2020/06/14/the-class-of-2020-by-the-numbers/). 
 
