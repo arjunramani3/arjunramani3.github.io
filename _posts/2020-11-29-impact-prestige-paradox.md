@@ -8,8 +8,6 @@ tags:
   - effective altruism
 ---
 
-### Context
-
 - Lots of people at Stanford and elsewhere think they can have it all: (i) have a high-status prestigious job (ii) do good for the world (iii) make a lot of money (the third condition is not always the case)
 - One conclusion from this piece is that no, you can't have it all; at least under certain conditions (that I think are reasonable at least for a decent portion of jobs)
 
