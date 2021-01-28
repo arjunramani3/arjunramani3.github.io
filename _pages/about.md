@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a student at Stanford studying economics, mathematics, and computer science. My research interests include understanding the drivers of innovation, the consequences of monetary policy to inequality, and how individuals/groups can be empowered to make more impactful choices. I am writing my senior thesis on how work-from-home is affecting real estate markets. 
+I'm a student at Stanford studying economics, mathematics, and computer science. My research interests include understanding the drivers of innovation, the consequences of monetary policy to inequality, and how individuals/groups can be empowered to make more impactful choices. I am writing my senior thesis on how work-from-home is affecting real estate markets. You can read about my latest findings at [SIEPR](https://siepr.stanford.edu/research/publications/donut-effect-how-covid-19-shapes-real-estate) and [CEPR Vox](https://voxeu.org/article/doughnut-effect-covid-19-cities).
 
 ### In addition to research, here are some other things I care about
 
