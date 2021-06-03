@@ -13,22 +13,30 @@ Click [here](https://arjunramani.com/files/arjun-resume.pdf) for a full pdf vers
 
 Education
 ======
-* B.A.H. in Economics, Minor in Mathematics, Stanford University, 2021 (expected)
+* B.A.H. in Economics, Minor in Mathematics, Stanford University, 2021
+* M.S. in Computer Science, Stanford University, 2022 (expected)
 
 Work experience
 ======
-* Summer 2020: Quantitative Trading Intern
-  * Citadel Securities
+* Fall 2021: The Economist, London (incoming)
+  * Marjorie Deane financial journalism fellowship
+  * Write for the finance & economics section
+
+* Summer 2021: Citadel, New York
+  * Trading intern
+  * Global Fixed Income
+
+* Summer 2020: Citadel Securities, New York
+  * Quantitative trading intern
   * Fixed Income ETF
 
-* Summer 2019: 
-  * Product Strategy & Analytics Intern
-  * DreamOval Ltd through the Stanford Institute for Innovation in Developing Economies
+* Summer 2019: DreamOval Ltd 
   * Accra, Ghana
+  * Product Strategy & Analytics Intern
+  * Stanford Institute for Innovation in Developing Economies (SEED)
 
-* Summer 2018:
+* Summer 2018: White House Council of Economic Advisers
   * Economic Policy Intern
-  * White House Council of Economic Advisers
   * Tax & trade policy
   
 
