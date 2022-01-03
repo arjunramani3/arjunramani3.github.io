@@ -14,7 +14,7 @@ Click [here](https://arjunramani.com/files/arjun-resume.pdf) for a full pdf vers
 Education
 ======
 * B.A.H. in Economics, Minor in Mathematics, Stanford University, 2021
-* M.S. in Computer Science, Stanford University, 2022 (expected)
+* M.S. in Computer Science, Stanford University, 2022
 
 Work experience
 ======

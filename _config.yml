@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arjun Ramani's Personal Website"
 title_separator          : "-"
 name                     : &name "Arjun Ramani"
-description              : &description "Economics & mathematics student at Stanford University"
+description              : &description "Global economics correspondent at The Economist"
 url                      : https://arjunramani.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arjunramani3/arjunramani3.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Arjun Ramani"
   avatar           : "arjun_headshot_wedding.jpg"
-  bio              : "Econ + Math @Stanford"
-  location         : "Stanford, CA"
+  bio              : "Writer @TheEconomist"
+  location         : "London, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=sqNEhHEAAAAJ&hl=en&oi=ao"
-  email            : "aramani3@stanford.edu"
+  email            : "arjunramani@economist.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
