@@ -18,9 +18,9 @@ Education
 
 Work experience
 ======
-* Fall 2021: The Economist, London (incoming)
-  * Marjorie Deane financial journalism fellowship
-  * Write for the finance & economics section
+* 2021-present: The Economist
+  * Global economics and business correspondent (winter 2022-present)
+  * Marjorie Deane financial journalism fellowship (fall 2021)
 
 * Summer 2021: Citadel, New York
   * Trading intern
@@ -38,18 +38,3 @@ Work experience
 * Summer 2018: White House Council of Economic Advisers
   * Economic Policy Intern
   * Tax & trade policy
-  
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
-Leadership
-======
-* Founder, [Stanford Open Data Project](https://stanfordopendata.org)
-* Editor, Data Journalism Section, [The Stanford Daily](https://stanforddaily.com)
-* Board Member, [The Washington Leadership Program](https://thewlp.com)
-* Board Member & VP of Projects, [Stanford Consulting](https://stanfordconsulting.stanford.edu)
