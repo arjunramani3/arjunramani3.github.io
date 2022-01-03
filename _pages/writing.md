@@ -20,7 +20,7 @@ redirect_from:
 - [Polarisation paradox: Is political polarisation in America really rising?](https://www.economist.com/the-economist-explains/2021/10/05/is-political-polarisation-in-america-really-rising), Oct 5 2021
 - [Labour's share in national income is both over- and under-explained](https://www.economist.com/finance-and-economics/2021/09/18/labours-share-in-national-income-is-both-over-and-under-explained), Sep 18 2021
 
-*cover story
+*cover package
 
 
 ### Podcasts
