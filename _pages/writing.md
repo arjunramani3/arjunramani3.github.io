@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## __The Economist__
+- [The bill balloons: The global interest bill is about to jump](https://www.economist.com/finance-and-economics/the-global-interest-bill-is-about-to-jump/21807488), Feb 5 2022
 - [What are stablecoins, such as Tether?](https://www.economist.com/the-economist-explains/2021/12/16/what-are-stablecoins-such-as-tether), Dec 16 2021
 - [Adventure capitalism: Startup finance goes global](https://www.economist.com/leaders/2021/11/27/adventure-capitalism), Nov 27 2021*
 - [Something ventured something gained: The bright new age of venture capital](https://www.economist.com/finance-and-economics/2021/11/23/the-bright-new-age-of-venture-capital/21806438), Nov 27 2021*
