@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## __The Economist__
+- [Punting profits: Will prediction markets live up to the hype?](https://www.economist.com/finance-and-economics/2022/02/19/will-prediction-markets-live-up-to-the-hype)
 - [The bill balloons: The global interest bill is about to jump](https://www.economist.com/finance-and-economics/the-global-interest-bill-is-about-to-jump/21807488), Feb 5 2022
 - [What are stablecoins, such as Tether?](https://www.economist.com/the-economist-explains/2021/12/16/what-are-stablecoins-such-as-tether), Dec 16 2021
 - [Adventure capitalism: Startup finance goes global](https://www.economist.com/leaders/2021/11/27/adventure-capitalism), Nov 27 2021*
