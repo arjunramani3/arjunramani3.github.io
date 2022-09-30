@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 ## __The Economist__
+- [Free Exchange: Richer societies mean fewer babies. Right?](https://www.economist.com/finance-and-economics/2022/09/15/richer-societies-mean-fewer-babies-right), Sep 15 2022
+- [What to read to understanding central banking](https://www.economist.com/the-economist-reads/2022/09/07/what-to-read-to-understand-central-banking), Sep 7 2022
+- [What to read to understand "effective altruism"](https://www.economist.com/the-economist-reads/2022/08/24/what-to-read-to-understand-effective-altruism), Aug 24 2022
 - [Can tech reshape the Pentagon?](https://www.economist.com/business/2022/08/08/can-tech-reshape-the-pentagon), Aug 8, 2022
 - [Buttonwood: Why markets really are less certain than they used to be](https://www.economist.com/finance-and-economics/2022/07/14/why-markets-really-are-less-certain-than-they-used-to-be), Jul 14, 2022
 - [Can Watershed corner the market for carbon accounting?](https://www.economist.com/business/2022/07/21/can-watershed-corner-the-market-for-carbon-accounting), Jul 21, 2022
@@ -30,6 +33,8 @@ redirect_from:
 
 
 ### Podcasts
+- [Fertility]()
+- [Defence tech]()
 - [Veni, vidi, vc: the new age of venture capital](https://www.economist.com/podcasts/2021/11/24/veni-vidi-vc-the-new-age-of-venture-capital), Nov 24 2021
 - [Inflated expectations](https://www.economist.com/podcasts/2021/11/17/will-central-bankers-act-to-curb-inflation), Nov 17 2021
 - [In a tightening spot](https://www.economist.com/podcasts/2021/10/20/in-a-tightening-spot-will-the-bank-of-england-raise-interest-rates-first), Oct 20 2021
