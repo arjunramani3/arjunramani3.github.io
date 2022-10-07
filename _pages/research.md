@@ -11,9 +11,9 @@ author_profile: true
 
 
 ## Past research
-- From 2018-2021 I worked with [Naomi Feldman](https://naomifeldman.com) and [Kevin Corinth](https://sites.google.com/view/kevincorinth/about-me) to estimate the causal effects of the Opporunity Zone provision of the 2018 Tax Cuts and Jobs Act (TCJA) on neigborhood economies.
+- From 2018-2021 I worked with [Naomi Feldman](https://naomifeldman.com) and [Kevin Corinth](https://sites.google.com/view/kevincorinth/about-me) to estimate the causal effects of the Opportunity Zone provision of the 2018 Tax Cuts and Jobs Act (TCJA) on neigborhood economies.
 
-- From 2020-2021 I worked for [Pete Klenow](http://www.klenow.com) on his project with [Chad Jones](https://web.stanford.edu/~chadj/) at Stanford studying the dispartity between Black and White Americans over the past four decades using a new consumption-equivalent welfare metric that incorporates consumption, leisure, inequality, health status, unemployment, and incarceration.
+- From 2020-2021 I worked for [Pete Klenow](http://www.klenow.com) on his project with [Chad Jones](https://web.stanford.edu/~chadj/) at Stanford studying the disparity between Black and White Americans over the past four decades using a new consumption-equivalent welfare metric that incorporates consumption, leisure, inequality, health status, unemployment, and incarceration.
 
 - From 2019-2020 I worked with [Ramin Toloui](https://siepr.stanford.edu/people/ramin-toloui) at the Stanford Institute for Economic Policy Research (SIEPR) to develop Stanford's first course on the economics of artifical intelligence.
 
