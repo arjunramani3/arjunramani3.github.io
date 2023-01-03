@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## __The Economist__
+- [Free Exchange: How best to bring back manufacturing](https://www.economist.com/finance-and-economics/2022/11/03/how-best-to-bring-back-manufacturing)
 - [Free Exchange: How to escape scientific stagnation](https://www.economist.com/finance-and-economics/2022/10/26/how-to-escape-scientific-stagnation)
 - [Mothering Invention: China and the West are in a race to foster innovation](https://www.economist.com/briefing/2022/10/13/china-and-the-west-are-in-a-race-to-foster-innovation), Oct 13 2022*
 - [Free Exchange: Richer societies mean fewer babies. Right?](https://www.economist.com/finance-and-economics/2022/09/15/richer-societies-mean-fewer-babies-right), Sep 15 2022
