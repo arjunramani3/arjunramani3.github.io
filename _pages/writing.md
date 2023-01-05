@@ -39,13 +39,12 @@ redirect_from:
 
 
 ### Podcasts
-- [The changing ideology of Silicon Valley](https://www.economist.com/podcasts/2022/12/14/the-changing-ideology-of-silicon-valley)
+- [The changing ideology of Silicon Valley](https://www.economist.com/podcasts/2022/12/14/the-changing-ideology-of-silicon-valley), Dec 2022
 - [Cryptocalypse](https://www.economist.com/cryptopod)
-- [The new economics of fertility](https://open.spotify.com/episode/68Kvj0IkGwpm3fcM2m08lA?si=b7e223cf27064246)
+- [The new economics of fertility](https://open.spotify.com/episode/68Kvj0IkGwpm3fcM2m08lA?si=b7e223cf27064246), Sep 2022
 - [Can tech reshape the pentagon?](https://open.spotify.com/episode/0VuqAepwq9G7QswjHsMSt8?si=5900949d194443d8)
-- [Veni, vidi, vc: the new age of venture capital](https://www.economist.com/podcasts/2021/11/24/veni-vidi-vc-the-new-age-of-venture-capital), Nov 24 2021
-- [Inflated expectations](https://www.economist.com/podcasts/2021/11/17/will-central-bankers-act-to-curb-inflation), Nov 17 2021
-- [In a tightening spot](https://www.economist.com/podcasts/2021/10/20/in-a-tightening-spot-will-the-bank-of-england-raise-interest-rates-first), Oct 20 2021
+- [Veni, vidi, vc: the new age of venture capital](https://www.economist.com/podcasts/2021/11/24/veni-vidi-vc-the-new-age-of-venture-capital), Nov 2021
+- [Inflated expectations](https://www.economist.com/podcasts/2021/11/17/will-central-bankers-act-to-curb-inflation), Nov 2021
 
 
 ## Other writing
