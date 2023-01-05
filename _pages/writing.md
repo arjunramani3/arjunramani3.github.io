@@ -8,8 +8,11 @@ redirect_from:
 ---
 
 ## __The Economist__
-- [Free Exchange: How best to bring back manufacturing](https://www.economist.com/finance-and-economics/2022/11/03/how-best-to-bring-back-manufacturing)
-- [Free Exchange: How to escape scientific stagnation](https://www.economist.com/finance-and-economics/2022/10/26/how-to-escape-scientific-stagnation)
+- [The new tech worldview](https://www.economist.com/christmas-specials/2022/12/20/the-new-tech-worldview), Dec 20 2022
+- [The Economist Explains: What is long-termism?](https://www.economist.com/the-economist-explains/2022/11/22/what-is-long-termism), Nov 22 2022
+- [What Sam Bankman-Fried's downfall means for effective altruism](https://www.economist.com/briefing/2022/11/17/what-sam-bankman-frieds-downfall-means-for-effective-altruism), Nov 17 2022
+- [Free Exchange: How best to bring back manufacturing](https://www.economist.com/finance-and-economics/2022/11/03/how-best-to-bring-back-manufacturing), Nov 3 2022
+- [Free Exchange: How to escape scientific stagnation](https://www.economist.com/finance-and-economics/2022/10/26/how-to-escape-scientific-stagnation), Oct 26 2022
 - [Mothering Invention: China and the West are in a race to foster innovation](https://www.economist.com/briefing/2022/10/13/china-and-the-west-are-in-a-race-to-foster-innovation), Oct 13 2022*
 - [Free Exchange: Richer societies mean fewer babies. Right?](https://www.economist.com/finance-and-economics/2022/09/15/richer-societies-mean-fewer-babies-right), Sep 15 2022
 - [What to read to understanding central banking](https://www.economist.com/the-economist-reads/2022/09/07/what-to-read-to-understand-central-banking), Sep 7 2022
@@ -36,6 +39,8 @@ redirect_from:
 
 
 ### Podcasts
+- [The changing ideology of Silicon Valley](https://www.economist.com/podcasts/2022/12/14/the-changing-ideology-of-silicon-valley)
+- [Cryptocalypse](https://www.economist.com/cryptopod)
 - [The new economics of fertility](https://open.spotify.com/episode/68Kvj0IkGwpm3fcM2m08lA?si=b7e223cf27064246)
 - [Can tech reshape the pentagon?](https://open.spotify.com/episode/0VuqAepwq9G7QswjHsMSt8?si=5900949d194443d8)
 - [Veni, vidi, vc: the new age of venture capital](https://www.economist.com/podcasts/2021/11/24/veni-vidi-vc-the-new-age-of-venture-capital), Nov 24 2021
