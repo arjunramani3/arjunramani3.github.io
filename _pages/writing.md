@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 ## __The Economist__
+- [Free exchange: Have economists misunderstood inflation?](https://www.economist.com/finance-and-economics/2023/01/26/have-economists-misunderstood-inflation), Jan 26 2023
+- [Buttonwood: Venture capital's $300bn question](https://www.economist.com/finance-and-economics/2023/01/18/venture-capitals-300bn-question), Jan 18 2023
+- [Has economics run out of big new ideas?](https://www.economist.com/finance-and-economics/2023/01/12/has-economics-run-out-of-big-new-ideas), Jan 12 2023
+- [How technology is redrawing the boundaries of the firm](https://www.economist.com/business/2023/01/08/how-technology-is-redrawing-the-boundaries-of-the-firm), Jan 8 2023
 - [The new tech worldview](https://www.economist.com/christmas-specials/2022/12/20/the-new-tech-worldview), Dec 20 2022
 - [The Economist Explains: What is long-termism?](https://www.economist.com/the-economist-explains/2022/11/22/what-is-long-termism), Nov 22 2022
 - [What Sam Bankman-Fried's downfall means for effective altruism](https://www.economist.com/briefing/2022/11/17/what-sam-bankman-frieds-downfall-means-for-effective-altruism), Nov 17 2022
