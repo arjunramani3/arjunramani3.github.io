@@ -8,16 +8,17 @@ redirect_from:
 ---
 
 ## __The Economist__
+- [Battle of the boffins: The race of the AI labs heats up](https://www.economist.com/business/2023/01/30/the-race-of-the-ai-labs-heats-up), Jan 30 2023
 - [Free exchange: Have economists misunderstood inflation?](https://www.economist.com/finance-and-economics/2023/01/26/have-economists-misunderstood-inflation), Jan 26 2023
 - [Buttonwood: Venture capital's $300bn question](https://www.economist.com/finance-and-economics/2023/01/18/venture-capitals-300bn-question), Jan 18 2023
 - [Has economics run out of big new ideas?](https://www.economist.com/finance-and-economics/2023/01/12/has-economics-run-out-of-big-new-ideas), Jan 12 2023
-- [How technology is redrawing the boundaries of the firm](https://www.economist.com/business/2023/01/08/how-technology-is-redrawing-the-boundaries-of-the-firm), Jan 8 2023
+- [How technology is redrawing the boundaries of the firm](https://www.economist.com/business/2023/01/08/how-technology-is-redrawing-the-boundaries-of-the-firm), Jan 8 2023, featured on [CNBC's The Exchange](https://www.cnbc.com/video/2023/02/02/more-u-s-firms-are-outsourcing-remote-talent-abroad.html?__source=flipboard)
 - [The new tech worldview](https://www.economist.com/christmas-specials/2022/12/20/the-new-tech-worldview), Dec 20 2022
 - [The Economist Explains: What is long-termism?](https://www.economist.com/the-economist-explains/2022/11/22/what-is-long-termism), Nov 22 2022
 - [What Sam Bankman-Fried's downfall means for effective altruism](https://www.economist.com/briefing/2022/11/17/what-sam-bankman-frieds-downfall-means-for-effective-altruism), Nov 17 2022
 - [Free Exchange: How best to bring back manufacturing](https://www.economist.com/finance-and-economics/2022/11/03/how-best-to-bring-back-manufacturing), Nov 3 2022
 - [Free Exchange: How to escape scientific stagnation](https://www.economist.com/finance-and-economics/2022/10/26/how-to-escape-scientific-stagnation), Oct 26 2022
-- [Mothering Invention: China and the West are in a race to foster innovation](https://www.economist.com/briefing/2022/10/13/china-and-the-west-are-in-a-race-to-foster-innovation), Oct 13 2022*
+- [Mothering Invention: China and the West are in a race to foster innovation](https://www.economist.com/briefing/2022/10/13/china-and-the-west-are-in-a-race-to-foster-innovation), Oct 13 2022,* featured on CBC Radio's "Eye on the World" [Part 1](https://audioboom.com/posts/8181034-1-2-prc-us-the-very-high-end-contest-in-stem-by-state-sponsored-actors-arjun-ramani-econ) | [Part 2](https://audioboom.com/posts/8181035-2-2-prc-us-the-very-high-end-contest-in-stem-by-state-sponsored-actors-arjun-ramani-econ?playlist_direction=forward)
 - [Free Exchange: Richer societies mean fewer babies. Right?](https://www.economist.com/finance-and-economics/2022/09/15/richer-societies-mean-fewer-babies-right), Sep 15 2022
 - [What to read to understanding central banking](https://www.economist.com/the-economist-reads/2022/09/07/what-to-read-to-understand-central-banking), Sep 7 2022
 - [What to read to understand "effective altruism"](https://www.economist.com/the-economist-reads/2022/08/24/what-to-read-to-understand-effective-altruism), Aug 24 2022
@@ -41,7 +42,6 @@ redirect_from:
 
 *cover package
 
-
 ### Podcasts
 - [The changing ideology of Silicon Valley](https://www.economist.com/podcasts/2022/12/14/the-changing-ideology-of-silicon-valley), Dec 2022
 - [Cryptocalypse](https://www.economist.com/cryptopod)
@@ -50,6 +50,10 @@ redirect_from:
 - [Veni, vidi, vc: the new age of venture capital](https://www.economist.com/podcasts/2021/11/24/veni-vidi-vc-the-new-age-of-venture-capital), Nov 2021
 - [Inflated expectations](https://www.economist.com/podcasts/2021/11/17/will-central-bankers-act-to-curb-inflation), Nov 2021
 
+### Journalistic panels and moderations
+- Oxford Synthetic media conference, Panel, January 2023
+- London School of Economics Alternative Investments Conference, Panel, January 2023
+- European Union Regions & Cities Conference, Panel,	October 2022
 
 ## Other writing
 
@@ -63,7 +67,6 @@ redirect_from:
 - [A closer look at Stanford students' COVID-19 petitions](https://stanforddaily.com/2020/05/06/a-closer-look-at-stanford-students-covid-19-petitions/), May 6 2020
 - [Experts discuss AI's potential to combat COVID-19, noting caveats](https://stanforddaily.com/2020/04/02/experts-discuss-ais-potential-to-combat-covid-19-noting-caveats/), Apr 2 2020
 - [Stanford as a VC](https://stanforddaily.com/2020/03/05/stanford-as-a-vc/), Mar 5 2020
-
 
 ### Miscellaneous
 - [Reflections on my summer in DC](https://www.thewlp.com/post/2018/08/14/look-back-at-wlp-2018-summer-of-relationships)
