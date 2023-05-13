@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 ## __The Economist__
+- [Just how good can China get at generative AI?](https://www.economist.com/business/2023/05/09/just-how-good-can-china-get-at-generative-ai), May 9 2023
+- [How generative models could go wrong](https://www.economist.com/science-and-technology/2023/04/19/how-generative-models-could-go-wrong), Apr 19 2023*
+- [The world's interest bill is $13trn--and rising](https://www.economist.com/finance-and-economics/2023/02/19/the-worlds-13trn-interest-bill), Feb 19, 2023
 - [Battle of the boffins: The race of the AI labs heats up](https://www.economist.com/business/2023/01/30/the-race-of-the-ai-labs-heats-up), Jan 30 2023
 - [Free exchange: Have economists misunderstood inflation?](https://www.economist.com/finance-and-economics/2023/01/26/have-economists-misunderstood-inflation), Jan 26 2023
 - [Buttonwood: Venture capital's $300bn question](https://www.economist.com/finance-and-economics/2023/01/18/venture-capitals-300bn-question), Jan 18 2023
@@ -43,6 +46,7 @@ redirect_from:
 *cover package
 
 ### Podcasts
+- [Babbage: How worrying is generative AI?](https://www.economist.com/AI-pods), Apr 2023
 - [The changing ideology of Silicon Valley](https://www.economist.com/podcasts/2022/12/14/the-changing-ideology-of-silicon-valley), Dec 2022
 - [Cryptocalypse](https://www.economist.com/cryptopod)
 - [The new economics of fertility](https://open.spotify.com/episode/68Kvj0IkGwpm3fcM2m08lA?si=b7e223cf27064246), Sep 2022
