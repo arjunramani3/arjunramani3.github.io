@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## __The Economist__
+- [What would humans do in a world of super-AI?](https://www.economist.com/finance-and-economics/2023/05/23/what-would-humans-do-in-a-world-of-super-ai), May 23 2023
 - [Just how good can China get at generative AI?](https://www.economist.com/business/2023/05/09/just-how-good-can-china-get-at-generative-ai), May 9 2023
 - [How generative models could go wrong](https://www.economist.com/science-and-technology/2023/04/19/how-generative-models-could-go-wrong), Apr 19 2023*
 - [The world's interest bill is $13trn--and rising](https://www.economist.com/finance-and-economics/2023/02/19/the-worlds-13trn-interest-bill), Feb 19, 2023
