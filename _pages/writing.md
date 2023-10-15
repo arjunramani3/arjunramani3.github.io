@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 ## __The Economist__
+- [Claudia Goldin wins the Nobel Prize in economics](https://www.economist.com/finance-and-economics/2023/10/09/claudia-goldin-wins-the-nobel-prize-in-economics), Oct 9 2023
+- [Could OpenAI be the next tech giant?](https://www.economist.com/business/2023/09/18/could-openai-be-the-next-tech-giant), Sep 18 2023
+- [AI will change American elections, but not in the obvious way](https://www.economist.com/united-states/2023/08/31/ai-will-change-american-elections-but-not-in-the-obvious-way), Aug 31 2023*
 - [Your employer is (probably) unprepared for artificial intelligence](https://www.economist.com/finance-and-economics/2023/07/16/your-employer-is-probably-unprepared-for-artificial-intelligence), Jul 16 2023
 - [American trustbusters are losing their focus](https://www.economist.com/leaders/2023/07/13/american-trustbusters-are-losing-their-focus), Jul 13 2023
 - [Is big business really getting too big?](https://www.economist.com/science-and-technology/2023/07/10/what-are-the-chances-of-an-ai-apocalypse), Jul 12 2023
