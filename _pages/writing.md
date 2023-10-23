@@ -37,10 +37,11 @@ redirect_from:
 - [Free Exchange: Richer societies mean fewer babies. Right?](https://www.economist.com/finance-and-economics/2022/09/15/richer-societies-mean-fewer-babies-right), Sep 15 2022
 - [What to read to understanding central banking](https://www.economist.com/the-economist-reads/2022/09/07/what-to-read-to-understand-central-banking), Sep 7 2022
 - [What to read to understand "effective altruism"](https://www.economist.com/the-economist-reads/2022/08/24/what-to-read-to-understand-effective-altruism), Aug 24 2022
-- [Can tech reshape the Pentagon?](https://www.economist.com/business/2022/08/08/can-tech-reshape-the-pentagon), Aug 8, 2022
-- [Buttonwood: Why markets really are less certain than they used to be](https://www.economist.com/finance-and-economics/2022/07/14/why-markets-really-are-less-certain-than-they-used-to-be), Jul 14, 2022
-- [Can Watershed corner the market for carbon accounting?](https://www.economist.com/business/2022/07/21/can-watershed-corner-the-market-for-carbon-accounting), Jul 21, 2022
-- [Punting profits: Will prediction markets live up to the hype?](https://www.economist.com/finance-and-economics/2022/02/19/will-prediction-markets-live-up-to-the-hype), Feb 19, 2022
+- [Can tech reshape the Pentagon?](https://www.economist.com/business/2022/08/08/can-tech-reshape-the-pentagon), Aug 8 2022
+- [Buttonwood: Why markets really are less certain than they used to be](https://www.economist.com/finance-and-economics/2022/07/14/why-markets-really-are-less-certain-than-they-used-to-be), Jul 14 2022
+- [Can Watershed corner the market for carbon accounting?](https://www.economist.com/business/2022/07/21/can-watershed-corner-the-market-for-carbon-accounting), Jul 21 2022
+- [Punting profits: Will prediction markets live up to the hype?](https://www.economist.com/finance-and-economics/2022/02/19/will-prediction-markets-live-up-to-the-hype), Feb 19 2022
+- [Can Silicon Valley still dominate global innovation?](https://www.economist.com/business/can-silicon-valley-still-dominate-global-innovation/21808708), Apr 16 2022
 - [The bill balloons: The global interest bill is about to jump](https://www.economist.com/finance-and-economics/the-global-interest-bill-is-about-to-jump/21807488), Feb 5 2022
 - [What are stablecoins, such as Tether?](https://www.economist.com/the-economist-explains/2021/12/16/what-are-stablecoins-such-as-tether), Dec 16 2021
 - [Adventure capitalism: Startup finance goes global](https://www.economist.com/leaders/2021/11/27/adventure-capitalism), Nov 27 2021*
