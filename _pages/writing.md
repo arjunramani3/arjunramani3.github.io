@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 ## __The Economist__
-- [With Sam Altman's return, a shift in AI from idealism to pragmatism](https://www.economist.com/business/2023/11/23/sam-altmans-return-marks-a-new-phase-for-openai)
-- [What Sam Altman's surprise sacking means for the AI race](https://www.economist.com/business/2023/11/18/what-sam-altmans-surprise-sacking-means-for-the-ai-race)
-- [What will artificial intelligence mean for your pay](https://www.economist.com/finance-and-economics/2023/11/16/what-will-artificial-intelligence-mean-for-your-pay)
-- [To supercharge science, first experiment with how it is funded](https://www.economist.com/leaders/2023/11/16/to-supercharge-science-first-experiment-with-how-it-is-funded)
+- [With Sam Altman's return, a shift in AI from idealism to pragmatism](https://www.economist.com/business/2023/11/23/sam-altmans-return-marks-a-new-phase-for-openai), Nov 23 2023
+- [What Sam Altman's surprise sacking means for the AI race](https://www.economist.com/business/2023/11/18/what-sam-altmans-surprise-sacking-means-for-the-ai-race), Nov 18, 2023
+- [What will artificial intelligence mean for your pay](https://www.economist.com/finance-and-economics/2023/11/16/what-will-artificial-intelligence-mean-for-your-pay), Nov 16 2023
+- [To supercharge science, first experiment with how it is funded](https://www.economist.com/leaders/2023/11/16/to-supercharge-science-first-experiment-with-how-it-is-funded), Nov 16 2023
 - [New ways to pay for research could boost scientific progress](https://www.economist.com/science-and-technology/2023/11/15/new-ways-to-pay-for-research-could-boost-scientific-progress), Nov 15 2023
 - [Why American manufacturing is becoming less efficient](https://www.economist.com/finance-and-economics/2023/11/09/why-american-manufacturing-is-increasingly-inefficient), Nov 9 2023
 - [Free Exchange: Do Amazon and Google lock out competition?](https://www.economist.com/finance-and-economics/2023/10/19/do-amazon-and-google-lock-out-competition)
