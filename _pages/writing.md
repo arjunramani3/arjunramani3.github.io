@@ -8,6 +8,13 @@ redirect_from:
 ---
 
 ## __The Economist__
+- [With Sam Altman's return, a shift in AI from idealism to pragmatism](https://www.economist.com/business/2023/11/23/sam-altmans-return-marks-a-new-phase-for-openai)
+- [What Sam Altman's surprise sacking means for the AI race](https://www.economist.com/business/2023/11/18/what-sam-altmans-surprise-sacking-means-for-the-ai-race)
+- [What will artificial intelligence mean for your pay](https://www.economist.com/finance-and-economics/2023/11/16/what-will-artificial-intelligence-mean-for-your-pay)
+- [To supercharge science, first experiment with how it is funded](https://www.economist.com/leaders/2023/11/16/to-supercharge-science-first-experiment-with-how-it-is-funded)
+- [New ways to pay for research could boost scientific progress](https://www.economist.com/science-and-technology/2023/11/15/new-ways-to-pay-for-research-could-boost-scientific-progress), Nov 15 2023
+- [Why American manufacturing is becoming less efficient](https://www.economist.com/finance-and-economics/2023/11/09/why-american-manufacturing-is-increasingly-inefficient), Nov 9 2023
+- [Free Exchange: Do Amazon and Google lock out competition?](https://www.economist.com/finance-and-economics/2023/10/19/do-amazon-and-google-lock-out-competition)
 - [Claudia Goldin wins the Nobel Prize in economics](https://www.economist.com/finance-and-economics/2023/10/09/claudia-goldin-wins-the-nobel-prize-in-economics), Oct 9 2023
 - [Could OpenAI be the next tech giant?](https://www.economist.com/business/2023/09/18/could-openai-be-the-next-tech-giant), Sep 18 2023
 - [AI will change American elections, but not in the obvious way](https://www.economist.com/united-states/2023/08/31/ai-will-change-american-elections-but-not-in-the-obvious-way), Aug 31 2023*
