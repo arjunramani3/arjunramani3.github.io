@@ -8,6 +8,15 @@ redirect_from:
 ---
 
 ## __The Economist__
+- [A six-chapter special report on India's economy](https://www.economist.com/special-report/2024/04/22/for-its-next-phase-of-growth-india-needs-a-new-reform-agenda), Apr 22 2024*
+- [Large language models are getting bigger and better](https://www.economist.com/science-and-technology/2024/04/17/large-language-models-are-getting-bigger-and-better), Apr 17 2024
+- [How fast is India's economy really growing?](https://www.economist.com/finance-and-economics/2024/04/11/how-fast-is-indias-economy-really-growing), Apr 11 2024
+- [What will humans do if technology solves everything?](https://www.economist.com/finance-and-economics/2024/04/09/what-will-humans-do-if-technology-solves-everything), Apr 9 2024
+- [Why India's elite loves Narendra Modi](https://www.economist.com/asia/2024/03/29/why-indias-elites-back-narendra-modi), Mar 29 2024*
+- [How India could become an Asian tiger](https://www.economist.com/finance-and-economics/2024/03/27/how-india-could-become-an-asian-tiger), Mar 27 2024
+- [Why AI needs to learn new languages](https://www.economist.com/science-and-technology/2024/01/24/why-ai-needs-to-learn-new-languages), Jan 24 2024
+- [Welcome to the era of AI nationalism](https://www.economist.com/business/2024/01/01/welcome-to-the-era-of-ai-nationalism), Jan 1 2024
+- [How to put boosters under India's economy](https://www.economist.com/finance-and-economics/2023/12/14/how-to-put-boosters-under-indias-economy), Dec 14 2023
 - [With Sam Altman's return, a shift in AI from idealism to pragmatism](https://www.economist.com/business/2023/11/23/sam-altmans-return-marks-a-new-phase-for-openai), Nov 23 2023
 - [What Sam Altman's surprise sacking means for the AI race](https://www.economist.com/business/2023/11/18/what-sam-altmans-surprise-sacking-means-for-the-ai-race), Nov 18, 2023
 - [What will artificial intelligence mean for your pay](https://www.economist.com/finance-and-economics/2023/11/16/what-will-artificial-intelligence-mean-for-your-pay), Nov 16 2023
@@ -26,7 +35,7 @@ redirect_from:
 - [Turkey's bizarre economic experiment enters a new phase](https://www.economist.com/finance-and-economics/2023/06/01/turkeys-bizarre-economic-experiment-enters-a-new-phase), Jun 1 2023
 - [What would humans do in a world of super-AI?](https://www.economist.com/finance-and-economics/2023/05/23/what-would-humans-do-in-a-world-of-super-ai), May 23 2023
 - [The fight over the future of global payments](https://www.economist.com/leaders/2023/05/18/the-fight-over-the-future-of-global-payments), May 18 2023
-- [A seven-chapter 10k-word special report on digital finance](https://www.economist.com/special-report/2023-05-20), May 15 2023
+- [A seven-chapter special report on digital finance](https://www.economist.com/special-report/2023-05-20), May 15 2023
 - [Just how good can China get at generative AI?](https://www.economist.com/business/2023/05/09/just-how-good-can-china-get-at-generative-ai), May 9 2023
 - [How generative models could go wrong](https://www.economist.com/science-and-technology/2023/04/19/how-generative-models-could-go-wrong), Apr 19 2023*
 - [The world's interest bill is $13trn--and rising](https://www.economist.com/finance-and-economics/2023/02/19/the-worlds-13trn-interest-bill), Feb 19, 2023
