@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I write for The Economist about macroeconomics, technology and finance. After two years writing from London, I am now doing an extended stint in Mumbai to cover India's economy. Here is my recent assessment of how [India's economy has performed](https://www.economist.com/finance-and-economics/2024/01/15/how-strong-is-indias-economy-under-narendra-modi) under Narendra Modi.
+I write for The Economist about macroeconomics, technology and finance. After two years writing from London, I am now doing an extended stint in Mumbai and Delhi to cover India's economy. My views are outlined in a six-part special report on [India's economy](https://www.economist.com/special-report/2024/04/22/for-its-next-phase-of-growth-india-needs-a-new-reform-agenda) that I have written with Tom Easton.
 
 In 2023, I wrote a lot about AI. Some favourites include a sci-fi inspired piece on what [humans might do](https://www.economist.com/finance-and-economics/2023/05/23/what-would-humans-do-in-a-world-of-super-ai) in a world of superintelligence, based on economics first principles. I also very much like a piece co-written with Callum Williams on why the [diffusion](https://www.economist.com/finance-and-economics/2023/07/16/your-employer-is-probably-unprepared-for-artificial-intelligence) of AI will be slow. Zhengdong Wang of DeepMind and I built on these themes in a recent essay published in The Gradient on the various [bottlenecks](https://thegradient.pub/why-transformative-artificial-intelligence-is-really-really-hard-to-achieve/) to rapid economic growth from AI. This is probably the most comprehensive record of my views on the technology.
 
