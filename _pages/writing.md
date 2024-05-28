@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 ## __The Economist__
+- [Brazil, India and Mexico are taking on China's exports](https://www.economist.com/finance-and-economics/2024/05/23/brazil-india-and-mexico-are-taking-on-chinas-exports), May 23 2024
+- [What India's clout in white-collar work means for the world](https://www.economist.com/leaders/2024/05/23/what-indias-clout-in-white-collar-work-means-for-the-world), May 23 2024
+- [Narendra Modi's flagship growth scheme is off to a sluggish start](https://www.economist.com/finance-and-economics/2024/05/16/narendra-modis-flagship-growth-scheme-is-off-to-a-sluggish-start), May 16 2024
+- [How Jim Simons revolutionised investing](https://www.economist.com/finance-and-economics/2024/05/16/how-jim-simons-revolutionised-investing), May 16 2024
 - [A six-chapter special report on India's economy](https://www.economist.com/special-report/2024/04/22/for-its-next-phase-of-growth-india-needs-a-new-reform-agenda), Apr 22 2024*
 - [Large language models are getting bigger and better](https://www.economist.com/science-and-technology/2024/04/17/large-language-models-are-getting-bigger-and-better), Apr 17 2024
 - [How fast is India's economy really growing?](https://www.economist.com/finance-and-economics/2024/04/11/how-fast-is-indias-economy-really-growing), Apr 11 2024
