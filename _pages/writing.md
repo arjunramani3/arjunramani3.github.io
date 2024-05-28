@@ -77,18 +77,24 @@ redirect_from:
 
 *cover package
 
-### Podcasts
-- [The business of sport](https://www.economist.com/podcasts/2023/07/20/the-business-of-sport), Jul 2023
-- [Reserve core: on digital finance and dollar dominance](https://www.economist.com/podcasts/2023/05/25/reserve-core-on-digital-finance-and-dollar-dominance), May 2023
+## Podcasts
+- [Crash Course with Michael Walker](https://www.patreon.com/posts/future-of-1-4-on-105055874) on my India economcis reporting, May 2024
+- [Ideas of India with Shruti Rajagopalan](https://www.mercatus.org/ideasofindia/arjun-ramani-and-thomas-easton-decode-indias-changing-economic-landscape) on my India economics reporting, May 2024
+- [The Gradient: On transformative AI](https://open.spotify.com/episode/4k6axyCReDfe63EwIXTaoy?si=85e5decac5c840fd), Sep 2023
+### Economist pods
+- [Money Talks: Claudia Goldin's nobel](https://open.spotify.com/episode/0aRjGliM6zA2OqmnZfxpuI?si=faeb3e48404544b0), Oct 2023
+- [Money Talks: The business of sport](https://www.economist.com/podcasts/2023/07/20/the-business-of-sport), Jul 2023
+- [Money Talks: Reserve core, on digital finance and dollar dominance](https://www.economist.com/podcasts/2023/05/25/reserve-core-on-digital-finance-and-dollar-dominance), May 2023
 - [Babbage: How worrying is generative AI?](https://www.economist.com/AI-pods), Apr 2023
-- [The changing ideology of Silicon Valley](https://www.economist.com/podcasts/2022/12/14/the-changing-ideology-of-silicon-valley), Dec 2022
-- [Cryptocalypse](https://www.economist.com/cryptopod)
-- [The new economics of fertility](https://open.spotify.com/episode/68Kvj0IkGwpm3fcM2m08lA?si=b7e223cf27064246), Sep 2022
-- [Can tech reshape the pentagon?](https://open.spotify.com/episode/0VuqAepwq9G7QswjHsMSt8?si=5900949d194443d8)
-- [Veni, vidi, vc: the new age of venture capital](https://www.economist.com/podcasts/2021/11/24/veni-vidi-vc-the-new-age-of-venture-capital), Nov 2021
-- [Inflated expectations](https://www.economist.com/podcasts/2021/11/17/will-central-bankers-act-to-curb-inflation), Nov 2021
+- [Money Talks: The changing ideology of Silicon Valley](https://www.economist.com/podcasts/2022/12/14/the-changing-ideology-of-silicon-valley), Dec 2022
+- [Money Talks: Cryptocalypse](https://www.economist.com/cryptopod)
+- [The Intelligence: The new economics of fertility](https://open.spotify.com/episode/68Kvj0IkGwpm3fcM2m08lA?si=b7e223cf27064246), Sep 2022
+- [The Intelligence: Can tech reshape the pentagon?](https://open.spotify.com/episode/0VuqAepwq9G7QswjHsMSt8?si=5900949d194443d8)
+- [Money Talks: Veni, vidi, vc: the new age of venture capital](https://www.economist.com/podcasts/2021/11/24/veni-vidi-vc-the-new-age-of-venture-capital), Nov 2021
+- [Money Talks: Inflated expectations](https://www.economist.com/podcasts/2021/11/17/will-central-bankers-act-to-curb-inflation), Nov 2021
 
-### Invited panel discussions
+## Invited panels
+- South Korea AI Safety Summit ([panel](https://www.youtube.com/watch?v=bDLfV4MU1Ns) with Yoshua Bengio, Jaan Tallin, Max Tegmark and others), May 2024
 - Oxford synthetic media conference, January 2023
 - London School of Economics alternative investments conference, January 2023
 - European Union regions & cities conference, October 2022
