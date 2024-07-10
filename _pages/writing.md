@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 ## __The Economist__
+- [Will services make the world rich?](https://www.economist.com/finance-and-economics/2024/06/24/will-services-make-the-world-rich), Jun 24 2024
+- [Rumours of the trade deal's death are greatly exaggerated](https://www.economist.com/finance-and-economics/2024/06/13/rumours-of-the-trade-deals-death-are-greatly-exaggerated), Jun 13 2024
 - [Brazil, India and Mexico are taking on China's exports](https://www.economist.com/finance-and-economics/2024/05/23/brazil-india-and-mexico-are-taking-on-chinas-exports), May 23 2024
 - [What India's clout in white-collar work means for the world](https://www.economist.com/leaders/2024/05/23/what-indias-clout-in-white-collar-work-means-for-the-world), May 23 2024
 - [Narendra Modi's flagship growth scheme is off to a sluggish start](https://www.economist.com/finance-and-economics/2024/05/16/narendra-modis-flagship-growth-scheme-is-off-to-a-sluggish-start), May 16 2024
@@ -78,7 +80,7 @@ redirect_from:
 *cover package
 
 ## Podcasts
-- [Crash Course with Michael Walker](https://www.patreon.com/posts/future-of-1-4-on-105055874) on my India economcis reporting, May 2024
+- [Crash Course with Michael Walker](https://www.patreon.com/posts/future-of-1-4-on-105055874) on my India economics reporting, May 2024
 - [Ideas of India with Shruti Rajagopalan](https://www.mercatus.org/ideasofindia/arjun-ramani-and-thomas-easton-decode-indias-changing-economic-landscape) on my India economics reporting, May 2024
 - [The Gradient: On transformative AI](https://open.spotify.com/episode/4k6axyCReDfe63EwIXTaoy?si=85e5decac5c840fd), Sep 2023
 ### Economist pods
